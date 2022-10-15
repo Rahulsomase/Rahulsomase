@@ -3,7 +3,7 @@
 ---------------------------------------------------------------------------------------------------------------
                                                    💻 Software Developer 
 
-[![Rahul's GitHub Banner]("https://img.freepik.com/free-photo/coding-man_1098-18084.jpg?w=1800&t=st=1665838997~exp=1665839597~hmac=ca7b26ad6eb2374041f410ef329ec437d6449fadeb3ff506effabc3cfa769d65")](https://harshal-jadhav.github.io/)
+[![Rahul's Portfolio]()](https://rahulsomase.github.io/)
 
 <!-- Adding Social Buttons -->
 <div id="badges" align="center">
