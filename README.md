@@ -3,7 +3,7 @@
 ---------------------------------------------------------------------------------------------------------------
                                                    💻 Software Developer 
 
-[![Rahul's Portfolio]()](https://rahulsomase.github.io/)
+[![Rahul's Portfolio]("./portfolio.png")](https://rahulsomase.github.io/)
 
 <!-- Adding Social Buttons -->
 <div id="badges" align="center">
@@ -21,10 +21,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahulsomase&label=Profile%20views&color=0e75b6&style=flat" alt="danish4git" /> </p>
 
-
-- 🔭 I’m currently at Masai School
-
-- 🌱 Learning **Full-Stack Web Development** from Masai School
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rahulsomase](https://github.com/Rahulsomase)
 
