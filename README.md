@@ -1,6 +1,7 @@
-                                                      👋 Hi, I’m @Rahulsomase
------------------------------------------------------------------------------------------------------------------------------------------------------------     
-                                                      💻 Software Developer ...
+                                                      👋 Hi There,
+                                                      I’m Rahul Somase
+----------------------------------------------------------------------------------------------------------------------------------------------------------- 
+                                                      💻 Software Developer 
 
 <!---
 Rahulsomase/Rahulsomase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
