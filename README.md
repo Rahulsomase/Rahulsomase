@@ -18,11 +18,9 @@
 </div>
 
 <br> <br>
+>
 
-
-<!-- <img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"> -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anukriti-Nawani&label=Profile%20views&color=0e75b6&style=flat" alt="danish4git" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahulsomase&label=Profile%20views&color=0e75b6&style=flat" alt="danish4git" /> </p>
 
 
 - 🔭 I’m currently at Masai School
@@ -31,15 +29,15 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rahulsomase](https://github.com/Rahulsomase)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **JAVA**
 
 - 📫 How to reach me **rahulsomase03@gmail.com**
 
 - ⚡ Fun fact **I watch the funny videos often.**
 
-- 🎯 Hobbies :**coding📕 | dancing | Physical fitness👊**
+- 🎯 Hobbies :**coding📕 | Cricket | Physical fitness👊**
 
-- ⚡ Fact :**It's never late to get started 🫀:**
+- ⚡ Fact :**It's never late to get started🫀:**
 
 </br>
 <!-- <h3 align="left">Connect with me:</h3>
@@ -57,26 +55,24 @@
    <a href="#"> <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange" alt="html"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue" alt="CSS"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="React"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/-Redux-007acc?style=for-the-badge&labelColor=black&logo=redux&logoColor=007acc" alt="Redux"/> </a> &nbsp;
+   <a href="#"> <img src="https://img.shields.io/badge/-Java-61DBFB?style=for-the-badge&labelColor=black&logo=java&logoColor=61DBFB" alt="Java"/> </a> &nbsp;
+   <a href="#"> <img src="https://img.shields.io/badge/-Spring-Boot-007acc?style=for-the-badge&labelColor=black&logo=spring-boot&logoColor=007acc" alt="Spring Boot"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/-Nodejs-609857?style=for-the-badge&labelColor=black&logo=node.js&logoColor=609857" alt="Node JS"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=2361DAFB" alt="Express"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongoDB&logoColor=white" alt="Mongo DB"/> </a> &nbsp;<a href="#"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white" alt="Git"/> </a> &nbsp;<a href="#"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&labelColor=black&logo=heroku&logoColor=white" alt="Heroku"/> </a> &nbsp;<a href="#"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=white" alt="Netlify"/> </a> &nbsp;
+   <a href="#"> <img src="https://img.shields.io/badge/-MySQL-609857?style=for-the-badge&labelColor=black&logo=Mysqk&logoColor=609857" alt="MY-SQL"/> </a> &nbsp;
+   <a href="#"> <img src="https://img.shields.io/badge/-Hibernate-000000?style=for-the-badge&labelColor=black&logo=hibernate&logoColor=2361DAFB" alt="Hibernate"/> </a> &nbsp;
+   <a href="#"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white" alt="Git"/> </a> &nbsp;
+   <a href="#"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&labelColor=black&logo=heroku&logoColor=white" alt="Heroku"/> </a> &nbsp;
+   <a href="#"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=white" alt="Netlify"/> </a> &nbsp;
   
 </p>
 
 <br /><br />
 ## Current Stats:
 
-<!-- | ![Anukriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anukriti-Nawani&show_icons=true&theme=dark) | ![Anukriti's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anukriti-Nawani&theme=dark) |
-| :---: | :---: | -->
+| ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahulsomase&show_icons=true&theme=dark) | ![Rahul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahulsomase&theme=dark) |
+| :---: | :---: |
 
 <br /><br />
-
-<!-- <p align="center">
-  <img width="250" height="200" src="https://math.sun.ac.za/prodinger/thanks.gif">
-</p> -->
 
 </div>
 
