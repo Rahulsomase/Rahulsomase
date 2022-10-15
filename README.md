@@ -3,7 +3,7 @@
 ---------------------------------------------------------------------------------------------------------------
                                                    💻 Software Developer 
 
-[![Rahul's Portfolio]("./portfolio.png")](https://rahulsomase.github.io/)
+[![Rahul's Portfolio]("portfolio.png")](https://rahulsomase.github.io/)
 
 <!-- Adding Social Buttons -->
 <div id="badges" align="center">
