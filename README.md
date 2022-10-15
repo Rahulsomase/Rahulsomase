@@ -1,7 +1,11 @@
-<h3>
-  Hi 👋, I Am Rahul Somase.                                           
-</h3>
-                                                   <h3>💻 Software Developer </h3>
+<h1 align="center">
+    Hi
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+    I'm Akash Yadav...
+</h1>                 
+<h2 align="center">
+  💻 Software Developer
+</h2>                     
 
 [![Rahul's Portfolio]("/portfolio.png")](https://rahulsomase.github.io/)
 
