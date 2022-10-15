@@ -1,7 +1,7 @@
 <h1 align="center">
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Akash Yadav...
+    I'm Rahul Somase...
 </h1>                 
 <h2 align="center">
   💻 Software Developer
