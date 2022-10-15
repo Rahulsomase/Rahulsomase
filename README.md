@@ -1,31 +1,26 @@
                                                       👋 Hi There,
                                                       I’m Rahul Somase
------------------------------------------------------------------------------------------------------------------------------------------------------------ 
+---------------------------------------------------------------------------------------------------------------
                                                    💻 Software Developer 
 
                                                    <!-- Github Banner Section-->
-[![Anukriti's GitHub Banner](./assets/)](https://harshal-jadhav.github.io/)
+<!-- [![Anukriti's GitHub Banner](./assets/)](https://harshal-jadhav.github.io/) -->
 
 <!-- Adding Social Buttons -->
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/anukriti-nawani-939672232/">
+  <a href="https://www.linkedin.com/in/rahul-somase-374519149/">
     <img src="https://img.shields.io/badge/Rahul Somase-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:anunwn@gmail.com">
+  <a href="mailto:rahulsomase03@gmail.com">
     <img src="https://img.shields.io/badge//Rahul Somase-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <!-- <a href="https://github.com/Anukriti-Nawani/Anukriti-Nawani.github.io">
-    <img src="https://img.shields.io/badge/My Portfolio-brightgreen?style=for-the-badge&logoColor=red" alt="Youtube Badge"/>
-  </a> -->
-  <!-- <a href="https://drive.google.com/file/d/1bQJfOs7pyOy1T3sBEVRlAXDk5RyPHOq-/view?usp=sharing">
-    <img src="https://img.shields.io/badge/My Resume-blueviolet?style=for-the-badge&logo=inbox&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
+ 
 </div>
 
 <br> <br>
 
 
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anukriti-Nawani&label=Profile%20views&color=0e75b6&style=flat" alt="danish4git" /> </p>
 
@@ -79,9 +74,9 @@
 
 <br /><br />
 
-<p align="center">
+<!-- <p align="center">
   <img width="250" height="200" src="https://math.sun.ac.za/prodinger/thanks.gif">
-</p>
+</p> -->
 
 </div>
 
