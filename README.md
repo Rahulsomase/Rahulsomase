@@ -3,7 +3,7 @@
 ---------------------------------------------------------------------------------------------------------------
                                                    💻 Software Developer 
 
-[![Rahul's Portfolio]("portfolio.png")](https://rahulsomase.github.io/)
+[![Rahul's Portfolio]("/portfolio.png")](https://rahulsomase.github.io/)
 
 <!-- Adding Social Buttons -->
 <div id="badges" align="center">
@@ -50,7 +50,7 @@
    <a href="#"> <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange" alt="html"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue" alt="CSS"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/-Java-61DBFB?style=for-the-badge&labelColor=black&logo=java&logoColor=61DBFB" alt="Java"/> </a> &nbsp;
+  <a href="https://github.com/search?q=user%3Aabhishek-0713+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/-Springboot-007acc?style=for-the-badge&labelColor=black&logo=springboot&logoColor=007acc" alt="Spring Boot"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/-MySQL-609857?style=for-the-badge&labelColor=black&logo=Mysqk&logoColor=609857" alt="MY-SQL"/> </a> &nbsp;
@@ -63,6 +63,12 @@
 
 <br /><br />
 ## Current Stats:
+
+## Trophy & Stats :
+
+| [![trophy](https://github-profile-trophy.vercel.app/?username=Rahulsomase)](https://github.com/ryo-ma/github-profile-trophy) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulsomase&layout=compact)](https://github.com/abhishek-0713/github-readme-stats) |
+| :---: | :---: |
+
 
 | ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahulsomase&show_icons=true&theme=dark) | ![Rahul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahulsomase&theme=dark) |
 | :---: | :---: |
