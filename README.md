@@ -56,7 +56,7 @@
    <a href="#"> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue" alt="CSS"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/-Java-61DBFB?style=for-the-badge&labelColor=black&logo=java&logoColor=61DBFB" alt="Java"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/-Spring-Boot-007acc?style=for-the-badge&labelColor=black&logo=spring-boot&logoColor=007acc" alt="Spring Boot"/> </a> &nbsp;
+   <a href="#"> <img src="https://img.shields.io/badge/-Springboot-007acc?style=for-the-badge&labelColor=black&logo=springboot&logoColor=007acc" alt="Spring Boot"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/-MySQL-609857?style=for-the-badge&labelColor=black&logo=Mysqk&logoColor=609857" alt="MY-SQL"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/-Hibernate-000000?style=for-the-badge&labelColor=black&logo=hibernate&logoColor=2361DAFB" alt="Hibernate"/> </a> &nbsp;
