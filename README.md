@@ -1,7 +1,7 @@
-                                                      👋 Hi There,
-                                                      I’m Rahul Somase
----------------------------------------------------------------------------------------------------------------
-                                                   💻 Software Developer 
+<h3>
+  Hi 👋, I Am Rahul Somase.                                           
+</h3>
+                                                   <h3>💻 Software Developer </h3>
 
 [![Rahul's Portfolio]("/portfolio.png")](https://rahulsomase.github.io/)
 
