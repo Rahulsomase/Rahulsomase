@@ -5,13 +5,10 @@
 </h1>                 
 <h2 align="center">
   💻 Software Developer
-</h2>   
-
-     <a href="https://www.linkedin.com/in/rahul-somase-374519149/">
-                  <h4>Linkdin</h4></a>
+</h2>  
 
  <!-- | [![Rahul's Portfolio]("./assets/portfolio.png")](https://rahulsomase.github.io/) | -->
-  <a align="center" href="https://rahulsomase.github.io/">
+  <a align="center"; href="https://rahulsomase.github.io/">
                   <h3>Rahul's Portfolio</h3></a>
 <!-- Adding Social Buttons -->
 <div id="badges" align="center">
