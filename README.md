@@ -9,7 +9,7 @@
 
 
  <!-- [![Rahul's Portfolio]("assets/portfolio.png")](https://rahulsomase.github.io/)  -->
- 
+ <img align="center" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" />
 <!-- Adding Social Buttons -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rahul-somase-374519149/">
