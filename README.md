@@ -69,7 +69,7 @@
 
 ## 🎯Trophy & 📈Stats :
 
-| [![trophy](https://github-profile-trophy.vercel.app/?username=Rahulsomase)](https://github.com/ryo-ma/github-profile-trophy) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulsomase&layout=compact)](https://github.com/abhishek-0713/github-readme-stats) |
+| [![trophy](https://github-profile-trophy.vercel.app/?username=Rahulsomase)](https://github.com/Rahulsomase/github-profile-trophy) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulsomase&layout=compact)](https://github.com/Rahulsomase/github-readme-stats) |
 | :---: | :---: |
 
 
