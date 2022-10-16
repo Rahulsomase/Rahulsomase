@@ -7,7 +7,7 @@
   💻 Software Developer
 </h2>                     
 
-[![Rahul's Portfolio]("portfolio.png")](https://rahulsomase.github.io/)
+[![Rahul's Portfolio]("./assets/portfolio.png")](https://rahulsomase.github.io/)
 
 <!-- Adding Social Buttons -->
 <div id="badges" align="center">
@@ -23,7 +23,7 @@
 <br> <br>
 >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahulsomase&label=Profile%20views&color=0e75b6&style=flat" alt="danish4git" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahulsomase&label=Profile%20views&color=0e75b6&style=flat" alt="Rahulsomase" /> </p>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rahulsomase](https://github.com/Rahulsomase)
