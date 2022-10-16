@@ -8,7 +8,7 @@
 </h2>   
 
 
- | [![Rahul's Portfolio]("./Mock_server/assets/portfolio.png")](https://rahulsomase.github.io/) |
+ [![Rahul's Portfolio]("assets/portfolio.png")](https://rahulsomase.github.io/) 
  
 <!-- Adding Social Buttons -->
 <div id="badges" align="center">
